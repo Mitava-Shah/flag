@@ -9,7 +9,7 @@ img{
   border-radius: 5px 5px 0px 0px;
 }
 .box{
-  height: 10cm;
+  height: 9cm;
   width: 6cm;
   background: white;
   border-radius: 5px;
@@ -17,8 +17,6 @@ img{
   justify-content: center;
   box-shadow:0px 0px 10px  rgb(196, 194, 194);
 }
-
-
 h2{
   padding-left: 18px;
   padding-top: 10px;
@@ -27,11 +25,6 @@ p{
   padding-left: 18px;
   padding-top: 5px;
   margin-bottom: 0;
-}
-button{
-   position: absolute;
-   right: 3rem;
-   top: 1.8rem;
 }
 .white{
   align-items: center;
@@ -61,12 +54,6 @@ button{
   font-size: 20px;
   font-weight: 900;
   font-family:'Times New Roman', Times, serif;
-}
-.modebutton{
-  background: white;
-  border: none;
-  font-size: 14px; 
-
 }
 .button{
   padding-right: 20px;
